@@ -67,3 +67,9 @@ cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp
 cmake-build-debug/CMakeCache.txt
 cmake-build-debug/accelerated_cpp.cbp
 cmake-build-debug/accelerated_cpp
+*.make
+*.o
+*.includecache
+*.internal
+cmake-build-debug/print_both_name
+cmake-build-debug/CMakeFiles/print_both_name.dir/link.txt

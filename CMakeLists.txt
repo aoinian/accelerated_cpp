@@ -6,3 +6,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(print_with_star_lines Chapter_01/print_with_star_lines.cpp)
 add_executable(print_hello Chapter_01/print_hello.cpp)
+add_executable(print_both_name Chapter_01/print_both_name.cpp)
